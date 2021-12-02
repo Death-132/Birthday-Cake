@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Death's Page
 
 You can use the [editor on GitHub](https://github.com/Death-132/Birthday-Cake/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
